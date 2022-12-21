@@ -1,7 +1,7 @@
 # DQSnake
 Deep-Q learning for Snake Game
 
-Izgled vizualizacije:
+Izgled igrice:
 
 ![image](https://user-images.githubusercontent.com/103512621/209010527-ef60ca96-c281-4234-9908-b4d333cbfc89.png)
 
